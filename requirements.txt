@@ -1,0 +1,11 @@
+python-dotenv
+streamlit
+PyPDF2
+chardet
+langchain
+langchain-huggingface
+langchain-community
+langchain-groq
+faiss-cpu==1.8.0
+python-docx
+nltk
