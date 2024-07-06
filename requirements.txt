@@ -9,3 +9,9 @@ langchain-groq
 faiss-cpu==1.8.0
 python-docx
 nltk
+chromadb
+Flask
+flask-cors
+langchain_chroma
+chroma-hnswlib
+pypdf

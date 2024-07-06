@@ -1,0 +1,245 @@
+HIE CDA Wrapped PDF Master
+DOCUMENT NAME: Discharge Summary
+SERVICE DATE/TIME: 1/27/2023 14:01 PST
+RESULT STATUS: Auth (Verified)
+PERFORM INFORMATION: Aftab,MD,Fahad (1/27/2023 14:12 PST)
+SIGN INFORMATION: Aftab,MD,Fahad (1/27/2023 14:12 PST)
+Patient:  Test, female            MRN:  12345678           FIN:  73103735963 Age:  75 years     Legal Sex:  FEMALE     DOB: 05/15/1936 
+Admission Information
+
+Admit Date:   01/25/23 22:25
+Reason for Admission:  GENERAL WEAKNESS/ANEMIA
+Physicians Involved With Care
+
+Admitting:         Nijjar, MD, Satinderjit
+Attending:         Nijjar, MD, Satinderjit
+Consulting:        Hartwick, MD, Frank M     Primary Care:      Raif Jawid, MD, Abdul W
+Final Diagnosis
+_
+1. Dysphagia (Dysphagia, unspecified, R13.10)
+2. Gastric outflow obstruction (Adult hypertrophic pyloric stenosis, K31.1)
+3. Aspiration pneumonia (Pneumonitis due to inhalation of food and vomit,
+J69.0)
+4. Hypertriglyceridemia (Pure hyperglyceridemia, E78.1)
+5. Asthma (Unspecified asthma, uncomplicated, J45.909)
+6. Lymphoma (Non-Hodgkin lymphoma, unspecified, unspecified site, C85.90)
+Pneumonia (Pneumonia, unspecified organism, J18.9)
+
+Hospital Course
+Pt is a 75-year-old female who presented to Lodi Memorial Hospital on 15
+January 2023 for sepsis secondary due to aspiration pneumonia and was found
+to have a dilated esophagus subsequently had EGD done which
+confirmed esophageal obstruction due to prior gastric lap banding.  Patient was
+started on IV Zosyn and TPN, patient was transferred for laparoscopic removal
+of lap band port.  Patient was evaluated by DR Huber and underwent
+laparoscopic removal of lap band.  She was started on clear liquid diet and diet
+was advanced to regular diet.  General surgery cleared her for discharge back
+to Lodi Memorial Hospital for disposition.
+Patient has clinically improved since lap band removal. She has competed abx
+course of zosyn and PT recommended discharge to SNF. ST recommended
+Regular textured diet with thin liquids. She is a nares MRSA carrier.
+Physical Exam
+Vitals and Measurements
+T:  35.7 C  HR:  92  RR:  16  BP:  111/55  SpO2:  93%  O2 Delivery:  Room air
+HT:  152.4 cm  WT:  52.5 kg  BMI:  22.6 kg/m2
+General Appearance : No acute distress.
+HEENT
+: NCAT. Normal oropharynx. Neck supple without lymphadenopathy.
+Cardiac
+: Normal sinus rhythm. No murmurs.
+Lungs : Clear to auscultation. Abdomen : Soft, non-distended, non-tender.
+Neurological
+: Grossly intact motor and sensory examination.
+Skin : No rash present.
+Psychiatric
+: Alert and interactive with normal affect.
+
+Lab Results
+(Last three charted values)
+WBC                   5.4    (JAN 27) 6.6    (JAN 26)
+Hgb                   L 8.2    (JAN 27)  L 7.9    (JAN 26)
+Hct                    L 25.8    (JAN 27) L 24.1    (JAN 26)
+Plt                   H 609    (JAN 27) H 556    (JAN 26)
+Na 136    (JAN 27) 136    (JAN 26)
+K                     4.3    (JAN 27) 4.3    (JAN 26)   CO2                   32    (JAN 27) 30    (JAN 26)
+Cl                    98    (JAN 27) 99    (JAN 26)
+Cr                    0.55    (JAN 27) 0.48    (JAN 26)   BUN                   12    (JAN 27) 14    (JAN 26)
+Glu Rndm              95    (JAN 27) 91    (JAN 26)
+Mg                     2.2    (JAN 27)
+Phos                  4.3    (JAN 27)
+Ca                     8.4    (JAN 27) 8.4    (JAN 26)
+Diagnostics Results
+General Diagnostic
+Result Type:  Chest 1 Vw Result Date:  January 17, 2023  10:05 PST
+Reason For Exam:  Pneumonia - confirmed
+
+REPORT:   Single view chestFollow-up
+pneumonia.Comparison is made to the film of
+January 15, 2023.FINDINGS: The heart is normal in
+size. The focal infiltrate in the right upper lobe has
+slightly decreased. There is a tiny right pleural
+effusion. The left lung is clear.IMPRESSION: Slight
+decrease in the right upper lobe infiltrate.
+Signed by: Michael Rigdon, MD on 1/17/2023 10:38
+AM
+
+Result Type:  Chest 1 Vw Portable Result Date:  January 15, 2023  19:25 PST
+Reason For Exam:  Sepsis
+
+REPORT:   History:  Shortness of breathComparison:
+January 15
+Findings:
+Single view chest. Dense upper lobe and
+less so right lower lobe consolidation noted
+consistent with pneumonia as before. The margins
+appear less convex. Left lung is clear without
+effusion. Heart size is normal. Kyphoplasties are
+present.Discharge Plan
+Patient Discharge Condition
+Stable
+Discharge Disposition/Location
+Discharge Date:
+Discharge Location:   Skilled Nursing Facility
+
+SNF Transfer Orders
+Discharge Disposition : _ /Skilled/Custodial
+Rehab Potential : _ (Good/ Fair/ Poor)
+
+Patient is able to comprehend and make informed decisions : _ (YES)
+Isolation Type
+: _ (Contact/Airborne) due to _ (MRSA/VRE/C diff)
+
+
+Discharge Diet   (1)  Low Sodium Diet
+
+Discharge Activity   (1)
+Activity As Tolerated
+Nutritional Supplement : _
+
+Therapy Orders:
+( X ) Physical Therapy Eval and Treat
+( _ ) Occupational Therapy Eval and Treat
+( _ ) Speech Therapy Eval and Treat
+( _ ) Wound Nurse Eval and Treat
+( _ ) Respiratory Therapy Evaluation
+
+Additional Interventions :
+( _ ) Foley/ Urinary Catheter Care
+( _ ) PICC/Central Line Management
+( _ ) Supplemental Oxygen: _ L/min via _
+( _ ) Intravenous Antibiotics _
+( X ) Wound Care Instructions _
+BID, Site Perianal to Perineal, Cleanse Perianal to Perineal moisture
+associated dermatitis with mild soap and water. Pat dry. Apply liberal amount
+of TRIAD cream. Leave open to air. Apply BID and PRN with every
+incontinence and pericare
+Discharge Details
+Follow-Up Plans:
+follow up with PCP outpatient in 1 week and Oncology
+Discharge Activity:  Activity As Tolerated    Discharge Diet:  Low Sodium Diet
+Medications Reconciliation
+Last Documented: 01/26/2023 Unchanged
+acetaminophen (Tylenol)
+1,000 Milligram Oral EVERY 6 HOURS as
+needed for pain.
+albuterol (albuterol CFC free 90 mcg/inh Inhaler) 2 Puffs Deep
+breath EVERY 6 HOURS as needed for wheezing. Refills: 6.
+aspirin (Aspirin Enteric Coated 81 mg oral delayed release
+tablet)
+1 Tabs Oral Twice daily with meals. Refills: 2.
+atorvastatin (atorvastatin 10 mg oral tablet) 1 Tabs Oral DAILY.
+Refills: 0.
+ferrous sulfate (ferrous sulfate 325 mg (65 mg elemental iron) oral delayed release tablet)
+1 Tabs Oral DAILY. Refills: 0.
+
+Impression:    Findings consistent with extensive
+right and less so right lower lobe pneumonia.
+
+Signed by: Grant Rogero, MD on 1/16/2023 8:07 AM
+Result Type:  Chest 2 Vw
+Result Date:  January 26, 2023  19:12 PST
+Reason For Exam:  Pneumonia - confirmed
+REPORT:   ******** ADDENDUM #1 ********The
+ordering physician did call and we discussed the
+case. The free intraperitoneal air is compatible with
+the recent surgery.
+
+Signed by: Frank Hartwick, MD on 1/26/2023 7:46
+PM******** ORIGINAL REPORT ********History:
+This examination is requested for "reeval for
+clearance". Chest radiograph January 17, 2023
+demonstrated right upper lobe infiltrate. No
+subsequent study at this facility. Patient did have a
+surgical procedure at another facility in the interval
+but date of the surgery is not included in the
+patient's medical record.There is free air under the
+right hemidiaphragm of relatively small volume. The
+surgery was recent the free air is not felt to be
+suspicious. Correlate with date of surgery and clinical
+presentation.There is continued patchy and nodular
+infiltrate in the mid upper right lung. Thick linear
+band of density is present at the medial right
+base.Left lung is clear and moderately expanded.
+Heart size is normal. Aorta is tortuous.
+
+Impression:
+Nodular infiltrate in the right upper
+lung is still present but improving. Underlying tumor
+is not excluded but pneumonia is most likely.
+Recommend continued follow-up.Free intraperitoneal
+air. See discussion above.Message was sent to the
+ordering physician via secured text requesting phone
+consultation but the ordering physician is unable to
+call at this time and will review the report.
+
+Signed by: Frank Hartwick, MD on 1/26/2023 7:39
+PM
+Computerized Tomography
+Result Type:  CT Angio Chest W Con
+Result Date:  January 15, 2023  19:29 PST
+Reason For Exam:  Pulmonary Embolism
+REPORT:   History:  Shortness of breath.Technique:
+Following the rapid intravenous administration of
+nonionic contrast, tracker timed CT angiography of
+the central pulmonary vessels was performed with
+axial, coronal and sagittal as well as MPR and 3D reconstructions. Dose reduction techniques were
+utilized including automated exposure control (AEC),
+iterative reconstruction technique, and/or mA and/or
+kV dose adjustments based on patient size. CTDI:
+21.13 mGy. DLP:  348.40 mGy-cm.Known prior
+CTs/myocardial perfusion studies last 12 months: 0
+
+Findings:    Pulmonary arteries enhance normally
+without filling defect to suggest pulmonary
+embolism.  Main pulmonary artery caliber is normal.fluticasone nasal (Flonase 50mcg/inh nasal spray) 2 Sprays Nose
+TWICE DAILY. Refills: 3.
+meclizine (meclizine 25 mg oral tablet)
+1 Tabs Oral THREE TIMES A
+DAY as needed for dizziness. Refills: 1.
+multivitamin (Multivitamins oral tablet) 1 Tabs Oral DAILY.
+omeprazole (omeprazole 20 mg oral delayed release capsule) 1
+Capsules Oral AT BEDTIME. Refills: 2.
+Time Spent Coordinating Discharge
+40 mins
+Aortic caliber and luminal enhancement are normal.
+Massively dilated debris laden esophagus is seen
+throughout. There is a lap band in place.Tiny right
+pleural effusion is present. Patchy right lower and
+more dense right upper lobe consolidation is
+consistent with pneumonia and probably related to
+aspiration. Left lung is clear. Heart size is
+normal.Multiple lower thoracic kyphoplasties are
+present.
+Impression:    No evidence of pulmonary embolism.
+Suspect extensive right lung aspiration pneumonia
+related to the dilated debris filled esophagus.Lap
+band in place may be obstructing.DICTATION NOTE:
+This report was dictated with PowerScribe 360, a computerized voice recognition software program.
+Although this document was reviewed there is the
+potential of word recognition, typographic and syntax
+errors.
+
+Signed by: Grant Rogero, MD on 1/16/2023 8:06 AM
+
+Electronically signed by: Aftab, MD, Fahad
+Signed on: 27-Jan-2023 14:12 PST
