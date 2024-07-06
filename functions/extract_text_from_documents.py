@@ -1,7 +1,8 @@
 #Importing libraries
 
-from langchain.document_loaders import PyPDFLoader, TextLoader
 from langchain_community.document_loaders import PyPDFLoader
+from langchain_community.document_loaders import TextLoader
+# from langchain.document_loaders import PyPDFLoader, TextLoader
 import chardet
 import xml.etree.ElementTree as ET
 from docx import Document
