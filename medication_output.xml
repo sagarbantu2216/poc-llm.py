@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+  <message>I'll do my best to generate a Continuity of Care Document (CCD) in XML format based on the provided medication information. However, please note that I'll need to make some assumptions about the patient's demographics and clinical information, as they are not provided.</message>
+  <ccdDocument>
+    <![CDATA[
+    <?xml version="1.0" encoding="UTF-8"?>
+    <ClinicalDocument xmlns="urn:hl7-org:v3" xmlns:v3="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <typeId root="2.16.840.1.113883.1.3" extension="POCD_HD000040"/>
+      <templateId root="2.16.840.1.113883.10.20.22.1.1" extension="CCD"/>
+      <id root="2.16.840.1.113883.19.5.1.1" extension=" MedicationList-1234567890"/>
+      <code code="34133-9" codeSystem="2.16.840.1.113883.6.1" displayName="Summary of medications"/>
+      <title>Medication List</title>
+      <effectiveTime value="2023-02-20"/>
+      <confidentialityCode code="N" codeSystem="2.16.840.1.113883.5.25"/>
+      <languageCode code="en"/>
+      <recordTarget>
+        <patientRole>
+          <id root="2.16.840.1.113883.19.5.1.1" extension="Patient-1234567890"/>
+          <addr>
+            <streetAddressLine>123 Main St</streetAddressLine>
+            <city>Anytown</city>
+            <state>CA</state>
+            <postalCode>12345</postalCode>
+          </addr>
+          <telecom value="tel:555-555-5555"/>
+          <patient>
+            <name>
+              <given>John</given>
+              <family>Doe</family>
+            </name>
+            <administrativeGenderCode code="M" codeSystem="2.16.840.1.113883.5.1"/>
+            <birthTime value="1990-01-01"/>
+          </patient>
+        </patientRole>
+      </recordTarget>
+      <component>
+        <structuredBody>
+          <component>
+            <section>
+              <templateId root="2.16.840.1.113883.10.20.22.2.1" extension="MedicationSection"/>
+              <code code="10160-0" codeSystem="2.16.840.1.113883.6.1" displayName="Medications"/>
+              <title>Medications</title>
+              <text>
+                <list listType="ordered">
+                  <item>
+                    <text>fluticasone propionate 50 mcg/actuation nasal spray</text>
+                    <entry>
+                      <substanceAdministration>
+                        <templateId root="2.16.840.1.113883.10.20.22.4.12" extension="Medication"/>
+                        <id root="2.16.840.1.113883.19.5.1.1" extension="Med-1234567890-1"/>
+                        <code code="91935009" codeSystem="2.16.840.1.113883.6.96" displayName="Fluticasone propionate 50 mcg/actuation nasal spray"/>
+                        <statusCode code="active"/>
+                        <effectiveTime>
+                          <low value="2023-02-20"/>
+                          <high value="2023-05-20"/>
+                        </effectiveTime>
+                        <doseQuantity value="2" unit="sprays"/>
+                        <administrationUnitCode code="422765002" codeSystem="2.16.840.1.113883.6.96" displayName="Intranasal"/>
+                        <routeCode code="76591008" codeSystem="2.16.840.1.113883.6.96" displayName="Nasal"/>
+                      </substanceAdministration>
+                    </entry>
+                  </item>
+                  <item>
+                    <text>triamterene 75 mg-hydrochlorothiazide 50 mg tablet</text>
+                    <entry>
+                      <substanceAdministration>
+                        <templateId root="2.16.840.1.113883.10.20.22.4.12" extension="Medication"/>
+                        <id root="2.16.840.1.113883.19.5.1.1" extension="Med-1234567890-2"/>
+                        <code code="91935010" codeSystem="2.16.840.1.113883.6.96" displayName="Triamterene 75 mg-hydrochlorothiazide 50 mg tablet"/>
+                        <statusCode code="active"/>
+                        <effectiveTime>
+                          <low value="2023-02-20"/>
+                          <high value="2023-05-20"/>
+                        </effectiveTime>
+                        <doseQuantity value="1" unit="tablet"/>
+                        <administrationUnitCode code="422765003" codeSystem="2.16.840.1.113883.6.96" displayName="Oral"/>
+                      </substanceAdministration>
+                    </entry>
+                  </item>
+                  <item>
+                    <text>budesonide DR - ER 3 mg capsule</text>
+                    <entry>
+                      <substanceAdministration>
+                        <templateId root="2.16.840.1.113883.10.20.22.4.12" extension="Medication"/>
+                        <id root="2.16.840.1.113883.19.5.1.1" extension="Med-1234567890-3"/>
+                        <code code="91935011" codeSystem="2.16.840.1.113883.6.96" displayName="Budesonide DR - ER 3 mg capsule"/>
+                        <statusCode code="active"/>
+                        <effectiveTime>
+                          <low value="2023-02-20"/>
+                          <high value="2023-05-20"/>
+                        </effectiveTime>
+                        <doseQuantity value="3" unit="capsules"/>
+                        <administrationUnitCode code="422765003" codeSystem="2.16.840.1.113883.6.96" displayName="Oral"/>
+                      </substanceAdministration>
+                    </entry>
+                  </item>
+                </list>
+              </text>
+            </section>
+          </component>
+        </structuredBody>
+      </component>
+    </ClinicalDocument>
+    ]]>
+  </ccdDocument>
+  <note>Please note that I've made the following assumptions:</note>
+  <assumptions>
+    <assumption>Patient demographics (name, address, phone number, etc.)</assumption>
+    <assumption>Medication codes and display names (using RxNorm and SNOMED-CT vocabularies)</assumption>
+    <assumption>Medication administration details (dose, route, frequency, etc.)</assumption>
+    <assumption>Effective dates for medication administration</assumption>
+  </assumptions>
+  <note>This CCD document is not exhaustive, and you may need to add or modify elements to conform to specific use cases or requirements. Additionally, please validate the generated CCD document against the relevant standards and specifications to ensure its correctness and interoperability.</note>
+  <sourceDocument>Medications.txt</sourceDocument>
+</response>

@@ -1,0 +1,450 @@
+[
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            0,
+            132
+        ],
+        "extendedSentence": [
+            0,
+            132
+        ],
+        "text": "Medications:\nOne Touch Verio Flex test strips Pt to check blood sugars once daily\natorvastatin 10 mg tablet Take 5 mg by oral route."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            132,
+            192
+        ],
+        "extendedSentence": [
+            132,
+            192
+        ],
+        "text": "atorvastatin 10 mg tablet\natorvastatin 10 mg tablet Take 0."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            192,
+            249
+        ],
+        "extendedSentence": [
+            192,
+            249
+        ],
+        "text": "5 tablets every day by oral route at bedtime for 90 days."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            249,
+            376
+        ],
+        "extendedSentence": [
+            249,
+            376
+        ],
+        "text": "ampicillin 500 mg capsule\nprednisone 20 mg tablet Take 2 tablets every day by oral route in the morning for 5 days, for cough."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            376,
+            585
+        ],
+        "extendedSentence": [
+            376,
+            585
+        ],
+        "text": "prednisone 20 mg tablet\nprednisone 5 mg tablet 2 tabs po BID x 5 days, then 1 tab po BID x 5 days\nprednisone 5 mg tablet\nallopurinol 100 mg tablet Take 4 tablets every day by oral route for 90 days, for gout."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            585,
+            715
+        ],
+        "extendedSentence": [
+            585,
+            715
+        ],
+        "text": "omeprazole 40 mg capsule,delayed release\nomeprazole 40 mg capsule,delayed release Take 40 mg every day by oral route as directed."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            715,
+            773
+        ],
+        "extendedSentence": [
+            715,
+            773
+        ],
+        "text": "aspirin 81 mg tablet,delayed release 81 mg by oral route."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            773,
+            800
+        ],
+        "extendedSentence": [
+            773,
+            800
+        ],
+        "text": "triamcinolone acetonide 0."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            800,
+            909
+        ],
+        "extendedSentence": [
+            800,
+            909
+        ],
+        "text": "1 % topical cream\nmethylprednisolone acetate 80 mg/mL suspension for injection Take 80 mg by injection route."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            909,
+            922
+        ],
+        "extendedSentence": [
+            909,
+            922
+        ],
+        "text": "meloxicam 7."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            922,
+            941
+        ],
+        "extendedSentence": [
+            922,
+            941
+        ],
+        "text": "5 mg tablet Take 7."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            941,
+            960
+        ],
+        "extendedSentence": [
+            941,
+            960
+        ],
+        "text": "5 mg by oral route."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            960,
+            989
+        ],
+        "extendedSentence": [
+            960,
+            989
+        ],
+        "text": "magnesium oxide 400 mg (241."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            989,
+            1061
+        ],
+        "extendedSentence": [
+            989,
+            1061
+        ],
+        "text": "3 mg magnesium) tablet Take 1 tablet every day by oral route for 3 days."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            1061,
+            1158
+        ],
+        "extendedSentence": [
+            1061,
+            1158
+        ],
+        "text": "amlodipine 10 mg tablet Take 1 tablet every day by oral route as directed for 100 days, for HTN."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            1158,
+            1296
+        ],
+        "extendedSentence": [
+            1158,
+            1296
+        ],
+        "text": "cyanocobalamin (vit B-12) 1,000 mcg/mL injection solution Inject 1 mL every month by subcutaneous route as directed for 90 days, for B12."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            1296,
+            1453
+        ],
+        "extendedSentence": [
+            1296,
+            1453
+        ],
+        "text": "cyanocobalamin (vit B-12) 1,000 mcg/mL injection solution\nmetoprolol tartrate 50 mg tablet Take 1 tablet twice a day by oral route as directed for 100 days."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            1453,
+            1580
+        ],
+        "extendedSentence": [
+            1453,
+            1580
+        ],
+        "text": "metoprolol tartrate 50 mg tablet\nbalsalazide 750 mg capsule Take 3 capsules twice a day by oral route as directed for 90 days."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            1580,
+            1734
+        ],
+        "extendedSentence": [
+            1580,
+            1734
+        ],
+        "text": "balsalazide 750 mg capsule TAKE THREE CAPSULES BY MOUTH TWICE A DAY\nfolic acid 1 mg tablet Take 1 tablet every day by oral route as directed for 90 days."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            1734,
+            1886
+        ],
+        "extendedSentence": [
+            1734,
+            1886
+        ],
+        "text": "folic acid 1 mg tablet\nallopurinol 300 mg tablet\nallopurinol 300 mg tablet Take 1 tablet every day by oral route in the morning for 100 days, for gout."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            1886,
+            2052
+        ],
+        "extendedSentence": [
+            1886,
+            2052
+        ],
+        "text": "triamterene 75 mg-hydrochlorothiazide 50 mg tablet\ntriamterene 75 mg-hydrochlorothiazide 50 mg tablet Take 1 tablet every day by oral route as directed for 100 days."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            2052,
+            2266
+        ],
+        "extendedSentence": [
+            2052,
+            2266
+        ],
+        "text": "budesonide DR - ER 3 mg capsule,delayed,extended release TAKE 3 CAPSULES BY MOUTH EVERY DAY AS DIRECTED\nbudesonide DR - ER 3 mg capsule,delayed,extended release Take 3 capsules every day by oral route as directed."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            2266,
+            2363
+        ],
+        "extendedSentence": [
+            2266,
+            2363
+        ],
+        "text": "benazepril 40 mg tablet Take 1 tablet every day by oral route as directed for 100 days, for HTN."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            2363,
+            2740
+        ],
+        "extendedSentence": [
+            2363,
+            2740
+        ],
+        "text": "methylprednisolone 4 mg tablets in a dose pack\nMedrol (Pak) 4 mg tablets in a dose pack as directred\nalbuterol sulfate HFA 90 mcg/actuation aerosol inhaler\nalbuterol sulfate HFA 90 mcg/actuation aerosol inhaler INHALE TWO PUFFS BY MOUTH EVERY 4 HOURS AS NEEDED\nProAir HFA 90 mcg/actuation aerosol inhaler Inhale 2 puffs every 4 hours by inhalation route as needed for 30 days."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            2740,
+            2754
+        ],
+        "extendedSentence": [
+            2740,
+            2754
+        ],
+        "text": "colchicine 0."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            2754,
+            2832
+        ],
+        "extendedSentence": [
+            2754,
+            2832
+        ],
+        "text": "6 mg tablet Take 1 tablet every day by oral route in the morning for 100 days."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            2832,
+            2846
+        ],
+        "extendedSentence": [
+            2832,
+            2846
+        ],
+        "text": "colchicine 0."
+    },
+    {
+        "section": "Medications:",
+        "sectionOffset": [
+            0,
+            3125
+        ],
+        "sentence": [
+            2846,
+            2993
+        ],
+        "extendedSentence": [
+            2846,
+            2993
+        ],
+        "text": "6 mg tablet\nfluticasone propionate 50 mcg/actuation nasal spray,suspension Spray 2 sprays every day by intranasal route in the morning for 90 days."
+    }
+]
